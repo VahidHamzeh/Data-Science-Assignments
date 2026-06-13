@@ -42,10 +42,7 @@ To run the codes in this repository on your local machine, first clone the repos
 
 ```bash
 # Clone the repository
-git clone [https://github.com/YourUsername/Data-Science-Assignments.git](https://github.com/YourUsername/Data-Science-Assignments.git)
+git clone [https://github.com/YourUsername/Data-Science-Assignments.git](https://github.com/VahidHamzeh/Data-Science-Assignments.git)
 
 # Navigate to the project directory
 cd Data-Science-Assignments
-
-# Install the required packages (if a requirements.txt is provided)
-pip install -r requirements.txt
