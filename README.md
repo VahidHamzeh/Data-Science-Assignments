@@ -1,3 +1,8 @@
+![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Dataset](https://img.shields.io/badge/Data-MNIST_&_AutoMPG-blue?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Python-orange?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 Data Science Course Assignments
 
 **Sharif University of Technology - Department of Electrical Engineering**
